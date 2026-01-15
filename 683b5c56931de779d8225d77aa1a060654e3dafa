@@ -1,0 +1,23 @@
+src/utils/index.js
+  220af29486b6b447 1-19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.0.32",
+  "base_commit_sha": "683b5c56931de779d8225d77aa1a060654e3dafa",
+  "prompts": {
+    "220af29486b6b447": {
+      "agent_id": {
+        "tool": "cursor",
+        "id": "7264eb4e-fe15-4cc0-958c-dc419ee067f4",
+        "model": "default"
+      },
+      "human_author": "xiaozhao <xiaozhao@tsign.cn>",
+      "messages": [],
+      "total_additions": 19,
+      "total_deletions": 0,
+      "accepted_lines": 19,
+      "overriden_lines": 0
+    }
+  }
+}
